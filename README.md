@@ -1,15 +1,4 @@
 ✈️ XENOS – Airport Operation Management System
-📚 Course:
-
-Database Management System (CS2102-1)
-Semester: IV CSE, Section C
-Institution: NMAM Institute of Technology
-Submitted To: Dr. Pradeep Kanchan, Assistant Professor Gd-III, Dept. of CSE
-Submitted By:
-
-Sharanya Aithal K.S. (NNM23CS177)
-
-Shaldon Barnes (NNM23CS172)
 
 🧾 Project Overview
 
