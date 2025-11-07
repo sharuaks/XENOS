@@ -70,13 +70,6 @@ Setup Database
 Create the database and tables in PostgreSQL using SQL or pgAdmin.
 Run the Server
 node server.js
-Access via Browser
-http://localhost:3000/signup.html
- – Registration
-http://localhost:3000/flights.html
- – Flight Management
-http://localhost:3000/report.html
- – Reports
 
 📊 Results
 
